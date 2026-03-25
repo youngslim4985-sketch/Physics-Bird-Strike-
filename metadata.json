@@ -1,0 +1,5 @@
+{
+  "name": "Physics Bird Strike",
+  "description": "A physics-based bird launching game with multiple bird types, destructible environments, and scoring.",
+  "requestFramePermissions": []
+}
